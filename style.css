@@ -1,0 +1,32 @@
+@font-face {
+    font-family: psb;
+    src: url("./psb.ttf");
+}
+@font-face {
+    font-family: psr;
+    src: url("./psr.ttf");
+}
+@font-face {
+    font-family: psbi;
+    src: url("./psbi.ttf");
+}
+@font-face {
+    font-family: psi;
+    src: url("./psi.ttf");
+}
+body {
+    font-family: psr;
+}
+html {
+    height: 100%;
+}
+p {
+   font-size: 22px;
+}
+h1 {
+    font-family: psb;
+}
+ul {
+    font-size: 22px;
+    font-family: psb;
+}
